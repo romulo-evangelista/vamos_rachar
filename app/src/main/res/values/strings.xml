@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vamos Rachar!</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="result">R$ 0,00</string>
+    <string name="vamos_rachar">Vamos Rachar!</string>
+    <string name="value">0</string>
+    <string name="people">0</string>
+</resources>
