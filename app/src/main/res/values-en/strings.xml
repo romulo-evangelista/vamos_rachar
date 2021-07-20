@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Let\'s Rachar!</string>
+
+    <string name="vamos_rachar">Let\'s Rachar!</string>
+
+    <string name="total">Account total value</string>
+    <string name="value">0</string>
+    <string name="input_total">Click to add account total value</string>
+
+    <string name="group">Number of people to divide account</string>
+    <string name="people">0</string>
+    <string name="input_group">Click to add the number of people to divide account</string>
+
+    <string name="result">R$ 0.00</string>
+    <string name="result_per_person">Account result per person</string>
+
+    <string name="share">Share value per person</string>
+    <string name="resume">Listen account resume</string>
+</resources>

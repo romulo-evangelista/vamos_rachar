@@ -1,9 +1,19 @@
 <resources>
     <string name="app_name">Vamos Rachar!</string>
-    <string name="name">Name</string>
-    <string name="todo">TODO</string>
-    <string name="result">R$ 0,00</string>
+
     <string name="vamos_rachar">Vamos Rachar!</string>
+
+    <string name="total">Valor total da conta</string>
     <string name="value">0</string>
+    <string name="input_total">Clique para adicionar o valor total da conta</string>
+
+    <string name="group">Número de pessoas para dividir a conta</string>
     <string name="people">0</string>
+    <string name="input_group">Clique para adicionar o número de pessoas para dividir a conta</string>
+
+    <string name="result">R$ 0.00</string>
+    <string name="result_per_person">Resultado da conta por pessoa</string>
+
+    <string name="share">Compartilhar valor por pessoa</string>
+    <string name="resume">Ouvir o resumo da conta</string>
 </resources>
